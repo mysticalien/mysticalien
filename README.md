@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 - 👾 21 school: @celiacsi
 - ⚡️ tg: @mysticalien
 
-![image](https://github.com/mysticalien/mysticalien/assets/102418559/41ca53d7-841c-48d7-a297-71da56da02ce)
+![image](https://github.com/mysticalien/mysticalien/assets/102418559/e082574e-98ad-4a0b-a203-b929fba04c4e)
+
+[cat](https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.gif)
+
+
+
 
 
 
