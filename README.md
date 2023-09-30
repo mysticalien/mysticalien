@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 <!--
 **mysticalien/mysticalien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/mysticalien/mysticalien/assets/102418559/41ca53d7-841c-48d7-a297-71da56da02ce)
 
-- 👾 I am currently a student at school 21
-- 👩🏻‍💻 tg: @mysticalien
+- 👾 21 school: @celiacsi
+- ⚡️ tg: @mysticalien
+
+![image](https://github.com/mysticalien/mysticalien/assets/102418559/f1e7d63e-07d9-499f-98a5-9e9cea119f35)
+
+
