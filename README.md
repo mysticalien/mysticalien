@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👾 I am currently a student at school 21
+- 👩🏻‍💻 tg: @mysticalien
