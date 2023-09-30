@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/mysticalien/mysticalien/assets/102418559/e082574e-98ad-4a0b-a203-b929fba04c4e)
 
-![Tap here for cool cat](https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.gif)
-
 
 
 
