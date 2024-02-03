@@ -18,27 +18,46 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/mysticalien/mysticalien/assets/102418559/e082574e-98ad-4a0b-a203-b929fba04c4e)
 -->
-Welcome to Meowgician's Code Wonderland! (⁎˃ᆺ˂)
 
-About Me:
-
-![image](cat2.jpg)
+## Welcome to Meowgician's Code Wonderland! (⁎˃ᆺ˂)
 
 As a proud Meowgician, my goal is to weave spells with code and create purrfectly delightful programs. I'm currently enrolled in the mystical realm of School21 programming, where I'm honing my ninja skills. On the side, I enjoy cracking LeetCode challenges, sharpening my claws for the ultimate coding battles.
 
-★ School21: [@celiacsi](https://edu.21-school.ru/profile/celiacsi@student.21-school.ru)
+<p align="center">
+  <img src="cat2.jpg" alt="Cat" width="250" height="250">
+</p>
 
-★ LeetCode: [@mysticalien](https://leetcode.com/mysticalien)
+### Connect with Me
 
-★ Telegram: [@mysticalien](https://t.me/mysticalien)
+- Telegram: [@mysticalien](https://t.me/mysticalien)
+- Gmail: [mysticalieen@gmail.com](mailto:mysticalieen@gmail.com)
+- LeetCode: [@mysticalien](https://leetcode.com/mysticalien)
+- School21: [@celiacsi](https://edu.21-school.ru/profile/celiacsi@student.21-school.ru)
+
+### Programming Languages
+
+I'm fluent in the following programming languages:
+- Go
+- Kotlin
+- Python
+- C
+- Java
+
+### My Projects
+
+- [SimpleBash](https://github.com/mysticalien/SimpleBash) - This project is a C implementation of the cat and grep commands, two fundamental Unix utilities.
+- [Tic-Tac-Toe](https://github.com/mysticalien/tic-tac-toe) - Crafting a purrfectly charming Tic-Tac-Toe game in Python.
+
+### GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mysticalien&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dracula)](https://github.com/mysticalien)
 
-Let's Conjure Some Code!
+### Let's Conjure Some Code!
 
 I'm always up for magical collaborations and coding adventures. If you have spells to share or just want to chat about cats and code, send a magical signal via Telegram.
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
 
 
 
