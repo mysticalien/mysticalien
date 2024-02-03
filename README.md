@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 -->
 Welcome to Meowgician's Code Wonderland! 🐾🚀
 
-Hello hoomans and fellow feline enthusiasts! I'm Meowgician, a Meowster of the code arts and a Coding Ninja by the light of the moon. 🌙✨ Currently on a journey to master the enchanting language of Go, my days are filled with magical feline pursuits and my nights are dedicated to unraveling the mysteries of programming.
+Hello hoomans and fellow feline enthusiasts! I'm Meowgician, a Meowster of the code arts and a Coding Ninja by the light of the moon. 🌙✨
 
 🐱 About Me
 As a proud Meowgician, my goal is to weave spells with code and create purrfectly delightful programs. I'm currently enrolled in the mystical realm of School21 programming, where I'm honing my ninja skills. On the side, I enjoy cracking LeetCode challenges, sharpening my claws for the ultimate coding battles.
 
-🎓 School21: @celiacsi
+🎓 School21: [@celiacsi](https://edu.21-school.ru/profile/celiacsi@student.21-school.ru)
+
 🚀 LeetCode: [@mysticalien](https://leetcode.com/mysticalien)
+
 📣 Telegram: [@mysticalien](https://t.me/mysticalien)
 
 🌟 GitHub Spells Stats
