@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 - Telegram: [@mysticalien](https://t.me/mysticalien)
 - Gmail: [mysticalieen@gmail.com](mailto:mysticalieen@gmail.com)
+- School21: [@celiacsi](https://edu.21-school.ru/profile/celiacsi@student.21-school.ru)
 <!--
 - LeetCode: [@mysticalien](https://leetcode.com/mysticalien)
 -->
-- School21: [@celiacsi](https://edu.21-school.ru/profile/celiacsi@student.21-school.ru)
 
 ### About me
 
