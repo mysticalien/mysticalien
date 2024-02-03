@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/mysticalien/mysticalien/assets/102418559/e082574e-98ad-4a0b-a203-b929fba04c4e)
 -->
-Welcome to Meowgician's Code Wonderland! 🐾🚀
+Welcome to Meowgician's Code Wonderland! 🐾
 
-Hello hoomans and fellow feline enthusiasts! I'm Meowgician, a Meowster of the code arts and a Coding Ninja by the light of the moon. 🌙✨
+![image](cat2.jpg)
 
 🐱 About Me
 As a proud Meowgician, my goal is to weave spells with code and create purrfectly delightful programs. I'm currently enrolled in the mystical realm of School21 programming, where I'm honing my ninja skills. On the side, I enjoy cracking LeetCode challenges, sharpening my claws for the ultimate coding battles.
@@ -31,7 +31,8 @@ As a proud Meowgician, my goal is to weave spells with code and create purrfectl
 
 📣 Telegram: [@mysticalien](https://t.me/mysticalien)
 
-🌟 GitHub Spells Stats
+🌟 GitHub Stats
+
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mysticalien&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dracula)](https://github.com/mysticalien)
 
 🌌 Let's Conjure Some Code!
