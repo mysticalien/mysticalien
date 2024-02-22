@@ -24,19 +24,18 @@ Here are some ideas to get you started:
 ### Connect with Me
 
 - Telegram: [@mysticalien](https://t.me/mysticalien)
-- Gmail: [mysticalieen@gmail.com](mailto:mysticalieen@gmail.com)
+- Gmail: [rjevskayao.com](mailto:rjevskayao@gmail.com)
 - School21: [@celiacsi](https://edu.21-school.ru/profile/celiacsi@student.21-school.ru)
-<!--
-- LeetCode: [@mysticalien](https://leetcode.com/mysticalien)
--->
 
 ### About me
 
 As a proud Meowgician, my goal is to weave spells with code and create purrfectly delightful programs. I'm currently enrolled in the mystical realm of School21 programming, where I'm honing my ninja skills. On the side, I enjoy cracking LeetCode challenges, sharpening my claws for the ultimate coding battles.
 
+<!--
 <p align="center">
   <img src="cat2.jpg" alt="Cat" width="250" height="250">
 </p>
+-->
 
 ### Programming Languages
 
@@ -62,8 +61,6 @@ I'm fluent in the following programming languages:
 I'm always up for magical collaborations and coding adventures. If you have spells to share or just want to chat about cats and code, send a magical signal via Telegram.
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-
-
 
 
 
