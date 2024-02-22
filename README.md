@@ -49,6 +49,7 @@ I'm fluent in the following programming languages:
 
 ### My Projects
 
+- [Real-Time Chat](https://github.com/mysticalien/RealTimeChat) - A simple real-time messaging application written in Golang. Users can send and receive messages without refreshing the page, thanks to WebSocket technology.
 - [SimpleBash](https://github.com/mysticalien/SimpleBash) - This project is a C implementation of the cat and grep commands, two fundamental Unix utilities.
 - [Tic-Tac-Toe](https://github.com/mysticalien/tic-tac-toe) - Crafting a purrfectly charming Tic-Tac-Toe game in Python.
 
