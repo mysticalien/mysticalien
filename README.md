@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Connect with Me
 
 - Telegram: [@mysticalien](https://t.me/mysticalien)
-- Gmail: [rjevskayao.com](mailto:rjevskayao@gmail.com)
+- Gmail: [rjevskayao@gmail.com](mailto:rjevskayao@gmail.com)
 - School21: [@celiacsi](https://edu.21-school.ru/profile/celiacsi@student.21-school.ru)
 
 ### About me
