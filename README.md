@@ -18,14 +18,31 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/mysticalien/mysticalien/assets/102418559/e082574e-98ad-4a0b-a203-b929fba04c4e)
 -->
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ## Welcome to Meowgician's Code Wonderland! (⁎˃ᆺ˂)
 
 ### Connect with Me
 
+<!--
+<a href="https://t.me/mysticalien">
+ <img align="left" alt="Tg" width="130" hight="100" src="telegram.png" />
+</a>
+
+<a href="mailto:rjevskayao@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="gmail3.png" />
+</a>
+
+<a href="https://edu.21-school.ru/profile/celiacsi@student.21-school.ru">
+ <img align="left" alt="School21" width="130" hight="100" src="school.jpeg" />
+</a>
+-->
+
 - Telegram: [@mysticalien](https://t.me/mysticalien)
 - Gmail: [rjevskayao@gmail.com](mailto:rjevskayao@gmail.com)
 - School21: [@celiacsi](https://edu.21-school.ru/profile/celiacsi@student.21-school.ru)
+
+<img hight="450" width="450" alt="GIF" align="left" src="cat2.jpg">
 
 ### About me
 
@@ -54,7 +71,7 @@ I'm fluent in the following programming languages:
 
 ### GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mysticalien&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dracula)](https://github.com/mysticalien)
+![My github stats](https://github-readme-stats.vercel.app/api?username=mysticalien&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ### Let's Conjure Some Code!
 
