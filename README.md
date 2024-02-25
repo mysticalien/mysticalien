@@ -22,28 +22,6 @@ Here are some ideas to get you started:
 
 ## Welcome to Meowgician's Code Wonderland! (⁎˃ᆺ˂)
 
-### Connect with Me
-
-<!--
-<a href="https://t.me/mysticalien">
- <img align="left" alt="Tg" width="130" hight="100" src="telegram.png" />
-</a>
-
-<a href="mailto:rjevskayao@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="gmail3.png" />
-</a>
-
-<a href="https://edu.21-school.ru/profile/celiacsi@student.21-school.ru">
- <img align="left" alt="School21" width="130" hight="100" src="school.jpeg" />
-</a>
--->
-
-- Telegram: [@mysticalien](https://t.me/mysticalien)
-- Gmail: [rjevskayao@gmail.com](mailto:rjevskayao@gmail.com)
-- School21: [@celiacsi](https://edu.21-school.ru/profile/celiacsi@student.21-school.ru)
-
-<img hight="420" width="420" alt="GIF" align="left" src="cat2.jpg">
-
 ### About me
 
 As a proud Meowgician, my goal is to weave spells with code and create purrfectly delightful programs. I'm currently enrolled in the mystical realm of School21 programming, where I'm honing my ninja skills. On the side, I enjoy cracking LeetCode challenges, sharpening my claws for the ultimate coding battles.
@@ -54,24 +32,34 @@ As a proud Meowgician, my goal is to weave spells with code and create purrfectl
 </p>
 -->
 
+
 ### Programming Languages
 
 I'm fluent in the following programming languages:
-- Go
-- Kotlin
-- Python
-- C
-- Java
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-9A3DC9?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-3D67F0?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://img.shields.io/badge/Java-4BACFF?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 
 ### My Projects
 
-- [Real-Time Chat](https://github.com/mysticalien/RealTimeChat) - A simple real-time messaging application written in Golang. Users can send and receive messages without refreshing the page, thanks to WebSocket technology.
-- [SimpleBash](https://github.com/mysticalien/SimpleBash) - This project is a C implementation of the cat and grep commands, two fundamental Unix utilities.
-- [Tic-Tac-Toe](https://github.com/mysticalien/tic-tac-toe) - Crafting a purrfectly charming Tic-Tac-Toe game in Python.
+#### [Real-Time Chat](https://github.com/mysticalien/RealTimeChat) 
+A simple real-time messaging application written in Golang. Users can send and receive messages without refreshing the page, thanks to WebSocket technology.
+#### [SimpleBash](https://github.com/mysticalien/SimpleBash) 
+This project is a C implementation of the cat and grep commands, two fundamental Unix utilities.
+#### [Tic-Tac-Toe](https://github.com/mysticalien/tic-tac-toe) 
+Crafting a purrfectly charming Tic-Tac-Toe game in Python.
 
 ### GitHub Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mysticalien&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Alien's GitHub stats](https://github-readme-stats.vercel.app/api?username=mysticalien\&rank_icon=github&theme=dracula&show_icons=true)
+
+### Connect with Me
+
+[![mysticalien](https://img.shields.io/badge/-@mysticalien-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/mysticalien)](https://t.me/mysticalien)
+[![Gmail](https://img.shields.io/badge/-rjevskayao%40gmail.com-606060?style=flat&logo=Gmail&logoColor=white&link=mailto:rjevskayao@gmail.com)](mailto:rjevskayao@gmail.com)
 
 ### Let's Conjure Some Code!
 
