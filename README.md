@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - Gmail: [rjevskayao@gmail.com](mailto:rjevskayao@gmail.com)
 - School21: [@celiacsi](https://edu.21-school.ru/profile/celiacsi@student.21-school.ru)
 
-<img hight="450" width="450" alt="GIF" align="left" src="cat2.jpg">
+<img hight="420" width="420" alt="GIF" align="left" src="cat2.jpg">
 
 ### About me
 
