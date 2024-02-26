@@ -59,7 +59,7 @@ Crafting a purrfectly charming Tic-Tac-Toe game in Python.
 ### Connect with Me
 
 [![mysticalien](https://img.shields.io/badge/-@mysticalien-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/mysticalien)](https://t.me/mysticalien)
-[![Gmail](https://img.shields.io/badge/-rjevskayao%40gmail.com-606060?style=flat&logo=Gmail&logoColor=white&link=mailto:rjevskayao@gmail.com)](mailto:rjevskayao@gmail.com)
+[![Gmail](https://img.shields.io/badge/-rjevskayao%40gmail.com-fb6b93?style=flat&logo=Gmail&logoColor=white&link=mailto:rjevskayao@gmail.com)](mailto:rjevskayao@gmail.com)
 
 ### Let's Conjure Some Code!
 
