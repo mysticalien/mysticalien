@@ -52,9 +52,11 @@ This project is a C implementation of the cat and grep commands, two fundamental
 #### [Tic-Tac-Toe](https://github.com/mysticalien/tic-tac-toe) 
 Crafting a purrfectly charming Tic-Tac-Toe game in Python.
 
+<!--
 ### GitHub Stats
 
 ![Alien's GitHub stats](https://github-readme-stats.vercel.app/api?username=mysticalien\&rank_icon=github&theme=dracula&show_icons=true)
+-->
 
 ### Connect with Me
 
